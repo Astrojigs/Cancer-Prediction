@@ -1,5 +1,5 @@
 # Cancer-Prediction
-Cancer prediction model using TensorFlow 
+Cancer prediction model using TensorFlow. 
 The data.py contain code of gathering data from the bc_data.xlsx file.
 The data is transfered to main.py file for further calculations.
 model.py consists of a neural model.
